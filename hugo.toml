@@ -1,0 +1,29 @@
+title = 'Dylan Bloodworth'
+theme = 'not-much'
+languageCode = 'en-us'
+baseURL = 'https://example.org/'
+
+[params]
+palette = 'catpuccin'
+
+[menu]
+[[menu.main]]
+identifier = 'home'
+name = 'home'
+title = 'home'
+url = '/'
+weight = 1
+
+[[menu.main]]
+identifier = 'about'
+name = 'about'
+title = 'about'
+url = '/about'
+weight = 2
+
+[[menu.main]]
+identifier = 'posts'
+name = 'blog'
+title = 'posts'
+url = '/posts'
+weight = 3
