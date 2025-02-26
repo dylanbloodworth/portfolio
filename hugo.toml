@@ -2,9 +2,11 @@ title = 'Dylan Bloodworth'
 theme = 'not-much'
 languageCode = 'en-us'
 baseURL = 'https://example.org/'
+copyright = "Dylan Bloodworth © {year}"
 
 [params]
 palette = 'catpuccin'
+showThemeNotice = true
 
 [menu]
 [[menu.main]]
@@ -27,3 +29,5 @@ name = 'blog'
 title = 'posts'
 url = '/posts'
 weight = 3
+
+

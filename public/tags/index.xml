@@ -6,6 +6,7 @@
     <description>Recent content in Tags on Dylan Bloodworth</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>Dylan Bloodworth © {year}</copyright>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

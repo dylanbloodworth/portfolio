@@ -6,14 +6,15 @@
     <description>Recent content on Dylan Bloodworth</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Feb 2025 22:48:55 -0500</lastBuildDate>
+    <copyright>Dylan Bloodworth © {year}</copyright>
+    <lastBuildDate>Wed, 26 Feb 2025 12:32:58 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/about/example/</link>
-      <pubDate>Tue, 25 Feb 2025 22:48:55 -0500</pubDate>
-      <guid>http://localhost:1313/about/example/</guid>
-      <description></description>
+      <title>Footer</title>
+      <link>http://localhost:1313/footer/</link>
+      <pubDate>Wed, 26 Feb 2025 12:32:58 -0500</pubDate>
+      <guid>http://localhost:1313/footer/</guid>
+      <description>Testing</description>
     </item>
     <item>
       <title>Put the Phone Down</title>

@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-  background-color: var(--bg-color) !important;
+  background-color: var(--base) !important;
 }
 
 body, main {
@@ -11,12 +11,17 @@ body, main {
 }
 
 ::selection {
-  background: var(--secondary);
+  background: var(--blue);
   color: black;
 }
 
 .splash-screen {
   height: 100%;
+}
+
+footer a {
+  text-decoration: underline !important;
+  color: var(--teal) !important;
 }
 
 nav a, a {
@@ -29,11 +34,11 @@ nav a:hover, a:hover {
 
 a {
   font-weight: bold;
-  color: var(--primary-variant) !important;
+  color: var(--blue) !important;
 }
 
 a:hover {
-  color: var(--primary) !important;
+  color: var(--sapphire) !important;
 }
 
 @media (min-width: 1200px) {
@@ -61,11 +66,11 @@ th, td {
 
 th {
   font-weight: bold;
-  background-color: var(--bg-variant);
+  background-color: var(--mantle);
 }
 
 td {
-  border-bottom: 2px solid var(--bg-variant) !important;
+  border-bottom: 2px solid var(--mantle) !important;
 }
 
 ul > li:has(input[type=checkbox]) {
@@ -77,7 +82,7 @@ code {
 }
 
 code:not(.highlight *) {
-  color: var(--secondary);
+  color: var(--blue);
   font-weight: bold;
 }
 
@@ -90,11 +95,11 @@ code:not(.highlight *) {
 }
 
 mark {
-  background-color: var(--primary-variant) !important;
+  background-color: var(--pink) !important;
 }
 
 kbd {
-  background-color: var(--bg-variant) !important;
+  background-color: var(--mantle) !important;
   font-family: 'Red Hat Mono', monospace !important;
   font-weight: bold;
 }
@@ -112,32 +117,32 @@ kbd {
 
 .post article h1::before {
   content: "# ";
-  color: var(--secondary);
+  color: var(--red);
 }
 
 .post article h2::before {
   content: "## ";
-  color: var(--secondary);
+  color: var(--peach);
 }
 
 .post article h3::before {
   content: "### ";
-  color: var(--secondary);
+  color: var(--yellow);
 }
 
 .post article h4::before {
   content: "#### ";
-  color: var(--secondary);
+  color: var(--green);
 }
 
 .post article h5::before {
   content: "###### ";
-  color: var(--secondary);
+  color: var(--blue);
 }
 
 .post article h6::before {
   content: "###### ";
-  color: var(--secondary);
+  color: var(--mauve);
 }
 
 .breadcrumb-item+.breadcrumb-item::before {
@@ -145,13 +150,13 @@ kbd {
 }
 
 .tags a:hover {
-  background-color: var(--primary) !important;
+  background-color: var(--mauve) !important;
   color: #fff !important;
   text-decoration: none !important;
 }
 
 .underline {
-	background-image: linear-gradient(to right, var(--secondary), var(--secondary));
+	background-image: linear-gradient(to right, var(--green), var(--green));
 	background-position: bottom left;
 	background-repeat: no-repeat;
 	background-size: 100% 2px;
