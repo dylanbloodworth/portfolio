@@ -1,12 +1,12 @@
 +++
 title = 'Doom Scrolling'
 date = 2025-02-05T20:22:08-05:00
-draft = true
+draft = false
 +++
 
-For better or for worse, it’s hard to refute technology’s influence on our culture. Technical innovations in medicine, communication systems, energy, engineering, and AI are just a few fields impacted by tech’s development. In fact, this innovation has been observed to be exponential1. Therefore, significant innovation will occur with higher frequency as current technologies are further developed. However, I believe most innovation seeks to benefit corporations, CEOs, and shareholders at the expense of the people.
+For better or for worse, it’s hard to refute technology’s influence on our culture. Technical innovations in medicine, communication systems, energy, engineering, and AI are just a few fields impacted by tech’s development. In fact, this innovation has been observed to be exponential [1](#sources). Therefore, significant innovation will occur with higher frequency as current technologies are further developed. However, I believe most innovation seeks to benefit corporations, CEOs, and shareholders at the expense of the people.
 
-An increasingly relevant case of such harm to the people is “doomscrolling”. Adapted from the term “doomsurfing”, doomscrolling is the “excessive time online scrolling through news or other content that makes one feel sad, anxious, angry, etc.”2. Others, including me, broaden the definition to encapsulate the over-consumption of media on platforms like TikTok, YouTube, or Twitter (fuck you Elon I’m not calling it X).
+An increasingly relevant case of such harm to the people is “doomscrolling.” Adapted from the term “doomsurfing”, doomscrolling is the “excessive time online scrolling through news or other content that makes one feel sad, anxious, angry, etc.” [2](#sources). Others, including me, broaden the definition to encapsulate the over-consumption of media on platforms like TikTok, YouTube, or Twitter (fuck you Elon I’m not calling it X).not
 
 ## Why do I Doom Scroll - A narrative of my experiences with social medias
 
@@ -22,8 +22,16 @@ I have taken steps to shift my consumption towards knowledge acquisition. As men
 
 Older generations often conclude the youth exhibit little self-control when it comes to the use of technologies, especially social media. However, it’s important to consider the structure of social media companies and their goals. Within a capitalistic framework, the duty of corporations is to maximize profits and increase shareholder value. Plain and simple. Without government oversight, which can be imagined quite vividly during the age of robber barons, CEOs would sacrifice babies to volcanoes if it meant a 2% increase in stock price. Looking after the well-being and health of people is antithetical to the mission statement of corpos.
 
-So, how does this apply to social media? Companies such as Twitter and YouTube profit from advertising revenue on content they host on their platforms. Increasing profit comes in two different forms: get companies to pay more for advertising or get people to see more adverts. The former would see other companies losing money and they can’t have that. It’s more worthwhile for social media companies to put hundreds of millions of dollars into R&D on maximizing people’s attention. The general population is not the consumer base for social media companies, it’s advertising companies. And our attention is for sale to the highest bidder.
+So, how does this apply to social media? Companies such as Twitter and YouTube profit from advertising revenue on content they host on their platforms. Increasing profit comes in two different forms: get companies to pay more for advertising or get people to see more adverts. The former would see other companies losing money and they can’t have that. It’s more worthwhile for social media companies to put hundreds of millions of dollars into R&D on maximizing people’s attention. The general population isn't the consumer base for social media companies, it’s advertising companies. And our attention is for sale to the highest bidder.
 
 Doomscrolling is an addiction. Overuse of social media is an addiction. Social media profits from our addictive tendency and funds research to monopolize our time.
 
-Is it my fault I doomscroll? I’ll quote Dr. Mike Israetel from his comments on people’s struggle with obesity. “It’s not your fault, but it is your responsibility”3. People should understand it’s our responsibility to limit unhealthy social media. Just know there’s an entire industry ready to make that process as strenuous as possible. Sisyphus has a cushier life than we do.
+Is it my fault I doomscroll? I’ll quote Dr. Mike Israetel from his comments on people’s struggle with obesity. “It’s not your fault, but it's your responsibility” [3](#sources). People should understand it’s our responsibility to limit unhealthy social media. Just know there’s an entire industry ready to make that process as strenuous as possible. Sisyphus has a cushier life than we do.
+
+#### Sources
+
+[\[1\] Accelerating Change](https://en.wikipedia.org/wiki/Accelerating_change)
+
+[\[2\] Doomscrolling](https://www.dictionary.com/e/word-of-the-day/doomscrolling-2020-12-03/)
+
+[\[3\] Dr. Mike Israetel - Obesity](https://www.youtube.com/watch?v=9vz06QO3UkQ)
