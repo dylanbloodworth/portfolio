@@ -1,7 +1,7 @@
 +++
 title = 'Put the Phone Down'
 date = 2025-02-18T20:46:01-05:00
-draft = true
+draft = false
 +++
 
 I feel a sinking dread whenever I decide to put my phone down and sit with myself. Articulating the experience is challenging. My phone calls to me. It lures me, masterfully occupying my mind with surface-level ideas and quick dopamine hits.

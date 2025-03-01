@@ -2,26 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:43985/footer/</loc>
-    <lastmod>2025-02-26T12:32:58-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43985/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2025-02-25T22:06:14-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:43985/</loc>
-    <lastmod>2025-02-25T17:10:49-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43985/about/</loc>
-    <lastmod>2025-02-25T17:09:38-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43985/posts/put-the-phone-down/</loc>
-    <lastmod>2025-02-18T20:46:01-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:43985/posts/doom-scroll/</loc>
+    <loc>https://example.org/posts/doom-scroll/</loc>
     <lastmod>2025-02-05T20:22:08-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:43985/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:43985/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
