@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Dylan Bloodworth</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:45385/posts/</link>
     <description>Recent content in Blog on Dylan Bloodworth</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Dylan Bloodworth © {year}</copyright>
-    <lastBuildDate>Wed, 05 Feb 2025 20:22:08 -0500</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Feb 2025 20:46:01 -0500</lastBuildDate>
+    <atom:link href="http://localhost:45385/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Put the Phone Down</title>
+      <link>http://localhost:45385/posts/put-the-phone-down/</link>
+      <pubDate>Tue, 18 Feb 2025 20:46:01 -0500</pubDate>
+      <guid>http://localhost:45385/posts/put-the-phone-down/</guid>
+      <description>I feel a sinking dread whenever I decide to put my phone down and sit with myself. Articulating the experience is challenging. My phone calls to me. It lures me, masterfully occupying my mind with surface-level ideas and quick dopamine hits.&#xA;I put the phone down, face down, with a conviction so strong one might&amp;rsquo;ve thought the girl from “The Ring” would crawl out. I realize the mistake I&amp;rsquo;ve made. The real world feels so dull, almost black and white.</description>
+    </item>
     <item>
       <title>Doom Scrolling</title>
-      <link>https://example.org/posts/doom-scroll/</link>
+      <link>http://localhost:45385/posts/doom-scroll/</link>
       <pubDate>Wed, 05 Feb 2025 20:22:08 -0500</pubDate>
-      <guid>https://example.org/posts/doom-scroll/</guid>
+      <guid>http://localhost:45385/posts/doom-scroll/</guid>
       <description>For better or for worse, it’s hard to refute technology’s influence on our culture. Technical innovations in medicine, communication systems, energy, engineering, and AI are just a few fields impacted by tech’s development. In fact, this innovation has been observed to be exponential 1. Therefore, significant innovation will occur with higher frequency as current technologies are further developed. However, I believe most innovation seeks to benefit corporations, CEOs, and shareholders at the expense of the people.</description>
     </item>
   </channel>
