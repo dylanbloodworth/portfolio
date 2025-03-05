@@ -1,7 +1,7 @@
 +++
-title = ''
+title = "Hi, my name is Dylan"
 date = 2025-02-25T17:10:49-05:00
-draft = true
+draft = false
 lead = 'Have I actually learned anything?'
 +++
 
