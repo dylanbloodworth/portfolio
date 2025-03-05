@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wdth,wght@0,87.5,100..900;1,87.5,100..900&display=swap');
 
 body {
-  background-color: var(--bg-color) !important;
+  background-color: var(--base) !important;
 }
 
 body, main {
@@ -14,7 +14,7 @@ body, main {
 }
 
 ::selection {
-  background: var(--secondary);
+  background: var(--yellow);
   color: black;
 }
 
@@ -32,11 +32,11 @@ nav a:hover, a:hover {
 
 a {
   font-weight: 600;
-  color: var(--primary-variant) !important;
+  color: var(--blue) !important;
 }
 
 a:hover {
-  color: var(--primary) !important;
+  color: var(--sapphire) !important;
 }
 
 @media (min-width: 1200px) {
@@ -65,11 +65,11 @@ td:not(.gist-data *) {
 
 th:not(.gist-data *) {
   font-weight: bold;
-  background-color: var(--bg-variant);
+  background-color: var(--mantle);
 }
 
 td:not(.gist-data *) {
-  border-bottom: 2px solid var(--bg-variant) !important;
+  border-bottom: 2px solid var(--mantle) !important;
 }
 
 ul > li:has(input[type=checkbox]) {
@@ -82,7 +82,7 @@ code {
 }
 
 code:not(.highlight *) {
-  color: var(--secondary);
+  color: var(--pink);
   font-weight: 600;
 }
 
@@ -95,11 +95,11 @@ code:not(.highlight *) {
 }
 
 mark {
-  background-color: var(--primary-variant) !important;
+  background-color: var(--sapphire) !important;
 }
 
 kbd {
-  background-color: var(--bg-variant) !important;
+  background-color: var(--mantle) !important;
   font-family: 'Red Hat Mono', monospace !important;
   font-weight: bold;
 }
@@ -117,32 +117,32 @@ kbd {
 
 .post article h1::before {
   content: "# ";
-  color: var(--secondary);
+  color: var(--red);
 }
 
 .post article h2::before {
   content: "## ";
-  color: var(--secondary);
+  color: var(--peach);
 }
 
 .post article h3::before {
   content: "### ";
-  color: var(--secondary);
+  color: var(--yellow);
 }
 
 .post article h4::before {
   content: "#### ";
-  color: var(--secondary);
+  color: var(--green);
 }
 
 .post article h5::before {
   content: "###### ";
-  color: var(--secondary);
+  color: var(--blue);
 }
 
 .post article h6::before {
   content: "###### ";
-  color: var(--secondary);
+  color: var(--pink);
 }
 
 .breadcrumb-item+.breadcrumb-item::before {
@@ -150,13 +150,13 @@ kbd {
 }
 
 .tags a:hover {
-  background-color: var(--primary) !important;
+  background-color: var(--blue) !important;
   color: #fff !important;
   text-decoration: none !important;
 }
 
 .underline {
-	background-image: linear-gradient(to right, var(--secondary), var(--secondary));
+	background-image: linear-gradient(to right, var(--green), var(--sapphire));
 	background-position: bottom left;
 	background-repeat: no-repeat;
 	background-size: 100% 2px;
